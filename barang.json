@@ -1,0 +1,73 @@
+[
+    {
+        "kodeBarang": "BRG0001",
+        "namaBarang": "HP  X99",
+        "jenisBarang": "Elektronik",
+        "hargaBarang": "5000000",
+        "diskon" : ""
+
+    },
+    {
+        "kodeBarang": "BRG0002",
+        "namaBarang": "LAPTOP ",
+        "jenisBarang": "Elektronik",
+        "hargaBarang": "10000000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0003",
+        "namaBarang": "Power Bank ",
+        "jenisBarang": "Elektronik",
+        "hargaBarang": "300000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0004",
+        "namaBarang": "Beras",
+        "jenisBarang": "Makanan",
+        "hargaBarang": "250000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0005",
+        "namaBarang": "Indomie",
+        "jenisBarang": "Makanan",
+        "hargaBarang": "150000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0006",
+        "namaBarang": "Susu",
+        "jenisBarang": "Makanan",
+        "hargaBarang": "100000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0007",
+        "namaBarang": "Gamis ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "300000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0008",
+        "namaBarang": "Sarung ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "70000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0009",
+        "namaBarang": "Peci ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "30000",
+        "diskon" : ""
+    },
+    {
+        "kodeBarang": "BRG0010",
+        "namaBarang": "Celana ",
+        "jenisBarang": "Pakaian",
+        "hargaBarang": "150000",
+        "diskon" : ""
+    }
+]
